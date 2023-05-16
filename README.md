@@ -25,8 +25,13 @@ Archiving and transforming community documentation notes into a memex
 ## Foundational Interest Groups (FIG)
 
 
+| FIG-AI | FIG-digitalassets | FIG-Legal-Policy | FIG-Networking |
+| -------- | -------- | --- | -------- |
+| ![FIG-AI](https://raw.githubusercontent.com/openmetaverse/omf-archive/main/docs/fig-AI/poster.jpg) | ![FIG-digitalassets](https://raw.githubusercontent.com/openmetaverse/omf-archive/main/docs/fig-digitalassets/poster.jpg) | ![FIG-Legal-Policy](https://raw.githubusercontent.com/openmetaverse/omf-archive/main/docs/fig-legal-policy/poster.jpg) | ![FIG-Networking](https://raw.githubusercontent.com/openmetaverse/omf-archive/main/docs/fig-networking/poster.jpg) |
 
-
+| FIG-Security | FIG-Transactions | FIG-Users | FIG-VirtualSim |
+| -------- | -------- | --- | -------- |
+| ![FIG-Security](https://raw.githubusercontent.com/openmetaverse/omf-archive/main/docs/fig-security/poster.jpg) | ![FIG-Transactions](https://raw.githubusercontent.com/openmetaverse/omf-archive/main/docs/fig-transactions/poster.jpg) | ![FIG-Users](https://raw.githubusercontent.com/openmetaverse/omf-archive/main/docs/fig-users/poster.jpg) | ![FIG-VirtualSim](https://raw.githubusercontent.com/openmetaverse/omf-archive/main/docs/fig-virtualworldsim/poster.jpg) |
 
 ---
 
