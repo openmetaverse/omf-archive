@@ -37,6 +37,8 @@ Archiving and transforming community documentation notes into a memex
 
 ## Neighbors
 
+[Open Metaverse Interoperability Group](https://omigroup.org/) (Showing the last 4 discussions per repo)
+
 | OMI Group | OMI glTF Extensions |
 | --------- | ------------------- |
 | ![](https://omigroup.github.io/omi-archive/omigroup/poster.jpg) | ![](https://omigroup.github.io/omi-archive/gltf-extensions/poster.jpg) |
